@@ -1,0 +1,29 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: Puti
+subtitle: 
+theme: simple
+highlight: true
+mathjax: false
+duoshuo:
+baiduAnalytics:
+keywords: Blog, ZhuoLiang
+description: >
+    The ones you trust are always there.
+version: 2.1
+author:
+    name: Liang Zhuo
+    email: zhuoliang3637@gmail.com
+    github: https://github.com/PutiZL
+    weibo: u/3841214658
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: Introduction
+    intro: >
+            Hello World!
